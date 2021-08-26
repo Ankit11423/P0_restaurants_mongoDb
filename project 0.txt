@@ -1,4 +1,4 @@
-Q1) Write a MongoDB query to display all the documents in the collection restaurants.
+Q1) Write a MongoDB query to display all the documents in the collection restaurants..
 
 Ans) db.restaurant.find()
 

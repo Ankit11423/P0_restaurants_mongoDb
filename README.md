@@ -14,7 +14,7 @@ analyzed the data using some aggregations like filtering and bucketing
 
 ## Getting Started
 * To start this project user need to install MongoDB in our system. Also Need to install Mongo Tool for importing the dataset in MongoDB Database. MongoDB Download URL :https://www.mongodb.com/try/download . MongoDB Database Tool Download URL : docs.mongodb.com/database-tools/installation/installation
-* "git clone https://github.com/shetu000/Project0-Restaurant-DataAnalysis-MongoDB.git" by using this we can pull the dataset 
+* "git clonehttps://github.com/Ankit11423/P0_restaurants_mongoDb.git" by using this we can pull the dataset 
 *After downloading the MongoDB CLI we have do some setup . here we will be using 2 application(one is mongod and another is mongos)
 *mongod is the database service and mongo is shell . everytime when we are going to use MongoDB database we have to first start our Mongod
 * use this command for allocating the folder where mongoDB will going to Create and store Database ->"C:\Program Files\MongoDB\Server\5.0\bin\mongod" --dbpath="c:\data\db" [Note:- --dbpath is our created folder path]
